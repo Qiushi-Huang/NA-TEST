@@ -1,4 +1,4 @@
 # NA-TEST
-## NAME Qiushi Huang
+# **NAME** Qiushi Huang
 all my work on neigbborhood analysis
-# DATES 08/30/2021
+# DATES: 08/30/2021
